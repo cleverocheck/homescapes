@@ -1,0 +1,20 @@
+{
+    "logo": "interface/logo.png",
+    "open": "interface/open.png",
+    "final": "interface/final.png",
+    "bg": "assets/bg.png",
+    "austin": "assets/austin.png",
+    "big_decoration": "assets/big_decoration.png",
+    "stair_old": "assets/stair_old.png",
+    "small_decoration": "assets/small_decoration.png",
+    "humer": "assets/humer.png",
+    "circle": "assets/circle.png",
+    "circle_filled": "assets/circle_filled.png",
+    "select_blue": "assets/select_blue.png",
+    "select_red": "assets/select_red.png",
+    "select_green": "assets/select_green.png",
+    "ok": "assets/ok.png",
+    "carpet_blue": "assets/carpet_blue.png",
+    "carpet_red": "assets/carpet_red.png",
+    "carpet_green": "assets/carpet_green.png"
+}
